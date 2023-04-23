@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-nord-ext",
+  "version": "0.0.1",
+  "description": "Nord Extension",
+  "author": "sylvain <sylvain@delmote.me>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SylvainDelmote/NordExtension.git"
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
